@@ -57,7 +57,6 @@ qualidade e boas práticas de engenharia de software.
 ---
 
 ### ⌨️ Atividades Recentes
-
 ---
 
 ### 📊 GitHub Stats
