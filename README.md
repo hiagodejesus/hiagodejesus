@@ -18,7 +18,11 @@
 
 ### 👨‍💻 Sobre mim
 
-Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluções inovadoras. Expertise no ecossistema Python e em desenvolvimento Frontend com React e Angular. Atuo na integração de soluções de Inteligência Artificial e na implementação de automação de testes, sempre focado em performance, qualidade e boas práticas de engenharia de software.
+Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluções
+inovadoras. Expertise no ecossistema Python e em desenvolvimento Frontend
+com React e Angular. Atuo na integração de soluções de Inteligência Artificial
+e na implementação de automação de testes, sempre focado em performance,
+qualidade e boas práticas de engenharia de software.
 
 ---
 
@@ -38,17 +42,17 @@ Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluçõe
   <a href="https://github.com/hiagodejesus/node-ai">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=009688&height=120&section=center&text=Node%20AI%20-%20Inteligência%20Artificial&fontSize=35&animation=fadeIn" width="100%" />
   </a>
+  
+  > **[Node AI](https://github.com/hiagodejesus/node-ai)**: Uma solução desenvolvida em Node.js focada em implementações de IA. Clique no banner acima e acesse o repositório.
 </p>
-
-> **[Node AI](https://github.com/hiagodejesus/node-ai)**: Uma solução desenvolvida em Node.js focada em implementações de IA. Clique no banner acima e acesse o repositório.
 
 <p align="center">
   <a href="https://github.com/hiagodejesus/gerador-certificado">
     <img src="https://capsule-render.vercel.app/api?type=soft&color=4169E1&height=120&section=center&text=Gerador%20de%20Certificado&fontSize=35&animation=fadeIn" width="100%" />
   </a>
+  
+  > **[Gerador de Certificado](https://github.com/hiagodejesus/gerador-certificado)**: Ferramenta para emissão de certificados de forma dinâmica. Clique no banner acima e acesse o repositório.
 </p>
-
-> **[Gerador de Certificado](https://github.com/hiagodejesus/gerador-certificado)**: Ferramenta para emissão de certificados de forma dinâmica. Clique no banner acima e acesse o repositório.
 
 ---
 
@@ -59,10 +63,6 @@ Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluçõe
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiagodejesus&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiagodejesus&theme=tokyonight" height="180" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiagodejesus&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagodejesus&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 </p>
