@@ -1,81 +1,68 @@
-<!-- Banner ou saudação -->
-<h1 align="center">Olá 👋, eu sou Hiago Oliveira de Jesus</h1>
-<h3 align="center">💻 Desenvolvedor Full Stack</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=009688&height=200&section=header&text=Hiago%20Oliveira%20de%20Jesus&fontSize=70&animation=fadeIn" />
+</p>
 
----
+<p align="center">
+  <img src="https://img.shields.io/badge/-Desenvolvedor%20Pleno-009688?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/-IA%20%26%20P%26D-blue?style=flat-square&logoColor=white" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hiago-oliveira-de-jesus" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=LinkedIn&message=Conectar&color=0A66C2&style=flat-square&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="mailto:hiago.oliveira.de.jesus@gmail.com">
+    <img src="https://img.shields.io/static/v1?label=Email&message=Contato&color=009688&style=flat-square&logo=gmail" alt="Email">
+  </a>
+</p>
 
 ### 👨‍💻 Sobre mim
 
-🧠 **Desenvolvedor Full Stack** com experiência em testes automatizados para **Android** e uso de tecnologias no front-end e back-end.
-
-💼 Atuo no **INDT** em projetos de P&D em parceria com a **Motorola** desenvolvendo soluções envolvendo inteligência artifial.
-
-🎯 Sempre em busca de **melhoria contínua**, com perfil autodidata, colaborativo e orientado a resultados.
+Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluções
+inovadoras. Expertise no ecossistema Python e em desenvolvimento Frontend
+com React e Angular. Atuo na integração de soluções de Inteligência Artificial
+e na implementação de automação de testes, sempre focado em performance,
+qualidade e boas práticas de engenharia de software.
 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
 
-#### 💻 Front-End
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue.js-42b883?style=flat&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+| Categoria | Stack |
+| :--- | :--- |
+| **Front-End** | ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb) ![Vue](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4fc08d) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) |
+| **Back-End** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
 
-#### ⚙️ Back-End
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+---
 
-#### 🗃️ Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+### 🚀 Projetos em Destaque
 
-#### 🚀 DevOps & Outros
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Gerrit](https://img.shields.io/badge/-Gerrit-3A3A3A?style=flat&logo=codeforces&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
+<p align="center">
+  <a href="https://github.com/hiagodejesus/node-ai">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=009688&height=120&section=center&text=Node%20AI%20-%20Inteligência%20Artificial&fontSize=35&animation=fadeIn" width="100%" />
+  </a>
+  
+  > **[Node AI](https://github.com/hiagodejesus/node-ai)**: Uma solução desenvolvida em Node.js focada em implementações de IA. Clique no banner acima e acesse o repositório.
+</p>
+
+<p align="center">
+  <a href="https://github.com/hiagodejesus/gerador-certificado">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=4169E1&height=120&section=center&text=Gerador%20de%20Certificado&fontSize=35&animation=fadeIn" width="100%" />
+  </a>
+  
+  > **[Gerador de Certificado](https://github.com/hiagodejesus/gerador-certificado)**: Ferramenta para emissão de certificados de forma dinâmica. Clique no banner acima e acesse o repositório.
+</p>
+
+---
+
+### ⌨️ Atividades Recentes
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiagooliveira&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiagooliveira&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiagooliveira&theme=github-dark&hide_border=true" />
-</div>
-
----
-
-### 🎓 Formação Acadêmica
-
-📘 Pós-graduação em Desenvolvimento Full Stack – Estácio (2024 – 2025)  
-📘 Pós-graduação em Desenvolvimento Mobile – Estácio (2024 – 2025)  
-🎓 Graduação em Licenciatura em Computação – UEA (2015 – 2021)
-
----
-
-### 🧾 Publicações
-
-**📄 [Predição de Evasão Escolar na Licenciatura em Computação](https://www.researchgate.net/profile/Hiago-Jesus/publication/350118570_Predicao_de_Evasao_Escolar_na_Licenciatura_em_Computacao/links/60708b58a6fdcc5f77949dad/Predicao-de-Evasao-Escolar-na-Licenciatura-em-Computacao.pdf)**  
-_Brazilian Journal of Computers in Education · 12 de março de 2021_
-
----
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiago-oliveira-de-jesus)
-
----
-
-> “A tecnologia move o mundo.” – Steve Jobs
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiagodejesus&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hiagodejesus&theme=tokyonight&hide_border=true" height="180" />
+</p>
