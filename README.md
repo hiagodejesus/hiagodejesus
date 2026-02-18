@@ -53,6 +53,7 @@ Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluçõe
 ---
 
 ### ⌨️ Atividades Recentes
+
 ---
 
 ### 📊 GitHub Stats
