@@ -18,11 +18,19 @@
 
 ### 👨‍💻 Sobre mim
 
-Desenvolvedor Pleno com mais de 4 anos de experiência na criação de soluções
-inovadoras. Expertise no ecossistema Python e em desenvolvimento Frontend
-com React e Angular. Atuo na integração de soluções de Inteligência Artificial
-e na implementação de automação de testes, sempre focado em performance,
-qualidade e boas práticas de engenharia de software.
+Atualmente, como Desenvolvedor Pleno no INDT, o meu habitat natural é o Backend. O meu foco principal é construir o "coração" de aplicações inteligentes, integrando soluções de Inteligência Artificial e garantindo que a lógica por trás de cada funcionalidade seja impecável.
+
+O que eu curto fazer (e faço bem):
+
+O Reino do Python & APIs: Especialista em construir o motor das aplicações. Se o desafio envolve lógica complexa no servidor e integração de modelos de IA, eu estou dentro.
+
+Dados com Integridade: Sou fã de PostgreSQL. Acredito que um sistema só é tão bom quanto a forma como ele armazena e recupera informações de forma estruturada e performática.
+
+Cultura DevOps na Veia: "Na minha máquina funciona" não faz parte do meu vocabulário. Utilizo Docker para containerização e Jenkins para que o deploy seja automático e sem sustos.
+
+Apoio no Front: Embora o meu foco seja o que acontece "debaixo do capô", transito bem no React e Angular quando o projeto pede uma mãozinha na interface.
+
+Qualidade & Agilidade: Automação de testes é lei. Tudo isso rodando dentro de metodologias ágeis com Jira e Confluence para manter o time em sintonia.
 
 ---
 
