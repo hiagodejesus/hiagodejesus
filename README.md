@@ -42,33 +42,6 @@ Qualidade & Agilidade: Automação de testes é lei. Tudo isso rodando dentro de
 | **Back-End** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) |
 
----
-
-### 🚀 Projetos em Destaque
-
-<p align="center">
-  <a href="https://github.com/hiagodejesus/node-ai">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=009688&height=120&section=center&text=Node%20AI%20-%20Inteligência%20Artificial&fontSize=35&animation=fadeIn" width="100%" />
-  </a>
-  
-  > **[Node AI](https://github.com/hiagodejesus/node-ai)**: Uma solução desenvolvida em Node.js focada em implementações de IA. Clique no banner acima e acesse o repositório.
-</p>
-
-<p align="center">
-  <a href="https://github.com/hiagodejesus/gerador-certificado">
-    <img src="https://capsule-render.vercel.app/api?type=soft&color=4169E1&height=120&section=center&text=Gerador%20de%20Certificado&fontSize=35&animation=fadeIn" width="100%" />
-  </a>
-  
-  > **[Gerador de Certificado](https://github.com/hiagodejesus/gerador-certificado)**: Ferramenta para emissão de certificados de forma dinâmica. Clique no banner acima e acesse o repositório.
-</p>
-
----
-
-### ⌨️ Atividades Recentes
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
